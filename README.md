@@ -1,2 +1,2 @@
 # responsive-web-design
-Shows simple responsive design layout
+Shows simple responsive design layouts
